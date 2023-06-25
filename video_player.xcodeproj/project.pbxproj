@@ -16,6 +16,7 @@
 		DA3B956C2A47956F0095D5F3 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B956B2A47956F0095D5F3 /* video_playerTests.swift */; };
 		DA3B95762A47956F0095D5F3 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B95752A47956F0095D5F3 /* video_playerUITests.swift */; };
 		DA3B95782A47956F0095D5F3 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B95772A47956F0095D5F3 /* video_playerUITestsLaunchTests.swift */; };
+		DA3B95852A4798560095D5F3 /* Never.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DA3B95842A4798560095D5F3 /* Never.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DA3B95712A47956F0095D5F3 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA3B95752A47956F0095D5F3 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		DA3B95772A47956F0095D5F3 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DA3B95842A4798560095D5F3 /* Never.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = Never.mp4; path = ../../../../../Downloads/Never.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		DA3B95532A47956D0095D5F3 /* video_player */ = {
 			isa = PBXGroup;
 			children = (
+				DA3B95842A4798560095D5F3 /* Never.mp4 */,
 				DA3B95542A47956D0095D5F3 /* AppDelegate.swift */,
 				DA3B95562A47956D0095D5F3 /* SceneDelegate.swift */,
 				DA3B95582A47956D0095D5F3 /* ViewController.swift */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA3B95852A4798560095D5F3 /* Never.mp4 in Resources */,
 				DA3B95612A47956E0095D5F3 /* LaunchScreen.storyboard in Resources */,
 				DA3B955E2A47956E0095D5F3 /* Assets.xcassets in Resources */,
 				DA3B955C2A47956D0095D5F3 /* Main.storyboard in Resources */,
